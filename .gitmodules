@@ -106,3 +106,6 @@
 [submodule "components/ieee802154/lib"]
 	path = components/ieee802154/lib
 	url = ../../espressif/esp-ieee802154-lib.git
+[submodule "components/lwip/components/lwip/lwip"]
+	path = components/lwip/components/lwip/lwip
+	url = https://github.com/daniel13lm/esp-lwip
