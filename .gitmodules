@@ -108,4 +108,4 @@
 	url = ../../espressif/esp-ieee802154-lib.git
 [submodule "components/lwip/lwip"]
 	path = components/lwip/lwip
-	url = https://github.com/daniel13lm/esp-lwip.git
+	url = https://github.com/daniel13lm/esp-lwip
